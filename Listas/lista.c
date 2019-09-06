@@ -303,7 +303,7 @@ int main(int argc, char *argv[]) {
 	al1.matricula = 1;
 	al1.n1 = 5;
 	al1.n2 = 5;
-	al1.n3 = 5;
+	al1.n3 = 5;removido com sucesso!
 	
 	res = inserirlista(li, al1);
 	
